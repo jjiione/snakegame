@@ -134,7 +134,7 @@
             - returns to the main menu without saving the current game status
  <br>
   
-   #### 2-3 Single Play Mode
+   #### 2-3 Auto Play Mode
   
     - The character moves automatically.
   
